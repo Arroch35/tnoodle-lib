@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="min2phase/src/main/java"/>
+	<classpathentry kind="src" path="scrambleanalysis/src/main/java"/>
+	<classpathentry kind="src" path="scrambleanalysis/src/test/java"/>
+	<classpathentry kind="src" path="scrambles/src/main/java"/>
+	<classpathentry kind="src" path="scrambles/src/test/java"/>
+	<classpathentry kind="src" path="sq12phase/src/main/java"/>
+	<classpathentry kind="src" path="svglite/src/main/java"/>
+	<classpathentry kind="src" path="threephase/src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
