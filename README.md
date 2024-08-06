@@ -68,3 +68,11 @@ _Important note: You must never use a custom build for any official competitions
 ### Notes
 
 -   Each project is a fully fledged Gradle project (they each have a `build.gradle.kts` file). Your IDE should be able to import Gradle build structures nowadays. if not, this is a good indicator that your IDE is outdated and should be replaced.
+
+
+## Additions in This Fork
+
+This fork introduces a new script that generates scrambles for a 3x3 Rubik's Cube and exports them into a CSV file to create a dataset.
+
+- **Script:** The script is named `ScrambleDatasetGenerator.java` and can be found at `scrambles/src/main/java/org/worldcubeassociation/tnoodle`.
+- **Dataset:** The generated scrambles are saved in a CSV file called `scramble_dataset.csv`, which is included in this repository.
